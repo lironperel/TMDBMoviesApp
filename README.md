@@ -1,5 +1,6 @@
 # TMDBMoviesApp
-> React Native application using TMDB API
+> App showing movies from TMDB API
+> React Native, Context API, React Hooks ,Functional components
 
 ![](Screenshot1.png)
 ![](Screenshot2.png)
