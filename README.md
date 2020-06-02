@@ -45,7 +45,7 @@ TMDB_KEY=TMDB API key
    and value as your Facebook App ID to the file
    `<string name="facebook_app_id">Facebook App ID</string>`
 
-4. Run `react-native run-android`
+5. Run `react-native run-android`
 
 ## Meta
 
