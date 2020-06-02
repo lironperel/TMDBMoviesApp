@@ -1,6 +1,8 @@
 # TMDBMoviesApp
 ![](logo.png)
-<div style="text-align:center"><img src="logo.png" /></div>
+<p align="center">
+  <img src="logo.png">
+</p>
 > App showing movies from TMDB API
 
 > React Native & Context API & React Hooks & Functional components
