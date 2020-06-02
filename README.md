@@ -1,4 +1,6 @@
 # TMDBMoviesApp
+![](Logo.png)
+
 > App showing movies from TMDB API
 
 > React Native & Context API & React Hooks & Functional components
@@ -35,6 +37,12 @@ GOOGLE_CID=Google API client id
 GOOGLE_CSECRET=Google API client secret
 TMDB_KEY=TMDB API key
 ```
+4. Setup Facebook API App ID:
+ * Open `android/app/res/values/strings.xml` file.
+ * Edit string element with the name attribute `facebook_app_id`
+   and value as your Facebook App ID to the file
+   `<string name="facebook_app_id">Facebook App ID</string>`
+
 4. Run `react-native run-android`
 
 ## Meta
