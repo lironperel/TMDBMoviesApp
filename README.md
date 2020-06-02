@@ -1,5 +1,5 @@
 # TMDBMoviesApp
-![](Logo.png)
+![](logo.png)
 
 > App showing movies from TMDB API
 
