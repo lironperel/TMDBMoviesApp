@@ -18,6 +18,7 @@
   * Year
   * Rating
   * Overview
+  * Add/Remove from favorites button
 * Each movie can be added to favorites
 * Clicking header favorites button opens favorites screen
   On this screen user can view and delete current favorite movies
