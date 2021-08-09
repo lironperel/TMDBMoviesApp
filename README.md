@@ -1,7 +1,4 @@
 # TMDBMoviesApp
-<p align="center">
-  <img src="logo.png">
-</p>
 
 > App showing movies from TMDB API
 
